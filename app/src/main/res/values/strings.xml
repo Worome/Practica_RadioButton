@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica_RadioButton</string>
+    <string name="txtPrimerValor">Introduce primer valor</string>
+    <string name="txtSegundoValor">Introduce segundo valor</string>
+    <string name="rbSuma">Sumar</string>
+    <string name="rbResta">Restar</string>
+    <string name="btCalcular">Calcular</string>
+    <string name="txtResultado">El resultado es:</string>
+</resources>

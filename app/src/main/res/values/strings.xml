@@ -6,4 +6,6 @@
     <string name="rbResta">Restar</string>
     <string name="btCalcular">Calcular</string>
     <string name="txtResultado">El resultado es:</string>
+    <string name="rbMulti">Multiplicar</string>
+    <string name="rbDivi">Dividir</string>
 </resources>

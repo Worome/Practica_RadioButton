@@ -59,6 +59,22 @@
             android:layout_weight="1"
             android:text="@string/rbResta"
             android:textSize="24sp" />
+
+        <RadioButton
+            android:id="@+id/rbMultiplicar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/rbMulti"
+            android:textSize="24sp" />
+
+        <RadioButton
+            android:id="@+id/rbDividir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/rbDivi"
+            android:textSize="24sp" />
     </RadioGroup>
 
     <Button
